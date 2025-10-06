@@ -1,0 +1,16 @@
+html {
+    scroll-padding: 10rem;
+}
+
+body {
+    min-height: 2000px; 
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edff;
+}
+
+#skills, #contacts {
+    background-color: #e2edff;  
+}
